@@ -1,0 +1,7 @@
+<Simulation version="4.2.3">
+   <PythonScript Type="PythonScript">Simulation/ExternalPotHyp.py</PythonScript>
+   <Resource Type="Python">Simulation/ExternalPotHypSteppables.py</Resource>
+   <Resource Type="Python">Simulation/contact_energy.py</Resource>
+   <Resource Type="Python">Simulation/variables.py</Resource>
+   <ParameterScan Type="ParameterScan">Simulation/ParameterScanSpecs.json</ParameterScan>
+</Simulation>
